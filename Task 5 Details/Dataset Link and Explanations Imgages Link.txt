@@ -1,0 +1,5 @@
+Dataset Link - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
+
+This dataset is an augmented version of the Plant Village Dataset created by S.P. Mohanty - https://github.com/spMohanty/PlantVillage-Dataset
+
+Drive Link to Images of Explanations - https://drive.google.com/drive/folders/1Nawr6bmtjZGEUb4a4fL8WcuvMWwLMk9W?usp=drive_link
